@@ -17,3 +17,11 @@ Assignments for Machine Learning course
             - Classification:
                 - Decision Tree
                 - Support Vector Machine 
+
+    - Assignment 3:
+            -Evaluation for Classification
+                - Dummy Classifiers
+                - Confusion matrices
+                - Evaluation metrics
+                - Decisions Functions
+                - Precision recall curve, roc curve , ...
